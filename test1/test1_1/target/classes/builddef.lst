@@ -1,0 +1,17 @@
+-Xajruntimetarget:1.5
+-Xlint:ignore
+-1.8
+-encoding
+UTF-8
+-showWeaveInfo
+-source
+1.8
+-target
+1.8
+-verbose
+-classpath
+/home/vergil/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar:/home/vergil/.m2/repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar:/home/vergil/Documents/Programming/scala-aspect/test1/test1_1/target/classes
+-d
+/home/vergil/Documents/Programming/scala-aspect/test1/test1_1/target/classes
+/home/vergil/Documents/Programming/scala-aspect/test1/test1_1/src/main/scala/com/vergil/aop/AccountAspect.aj
+/home/vergil/Documents/Programming/scala-aspect/test1/test1_1/src/main/scala/com/vergil/aop/Loggable.java
